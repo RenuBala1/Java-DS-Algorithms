@@ -1,2 +1,2 @@
 # Java-DS-Algorithms
-Coding 
+Data Structure and Algorithms Impl in Java 
